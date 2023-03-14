@@ -46,5 +46,5 @@ else:
     else:
         st.write("It has others pulmonary directions!")
     
-    st.text("Probability (0: Covid, 1: Healty, 2: Others")
+    st.text("Probability (0: Covid, 1: Healthy, 2: Others")
     st.write(prediction)
