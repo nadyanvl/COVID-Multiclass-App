@@ -3,7 +3,7 @@ import streamlit as st
 import cv2
 from PIL import Image, ImageOps
 import numpy as np
-# import efficientnet.tfkeras
+import efficientnet.tfkeras
 from tensorflow.keras.models import load_model
 
 # Load the trained model
