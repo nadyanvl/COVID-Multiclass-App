@@ -6,8 +6,6 @@ import numpy as np
 import efficientnet.tfkeras
 from tensorflow.keras.models import load_model
 
-# Load the model (only executed once!)
-@st.cache
 
 # Load the trained model
 model = tensorflow.keras.models.load_model('efficientnet_model.hdf5')
