@@ -14,7 +14,7 @@ git clone https://github.com/nadyanvl/COVID-Multiclass-App.git
 ```
 cd COVID-Multiclass-App
 ```
-- make virtual environtment (windows)
+- make virtual environment (windows)
 ```
 python -m venv venv
 ```
